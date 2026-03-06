@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hola, soy Isaac 👋
 
-<!--
-**IsaacFdezPintor/IsaacFdezPintor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Full Stack Developer Junior | 🌐 IT Systems & Network Technician
 
-Here are some ideas to get you started:
+Especialista en **Microinformática y Redes** con enfoque en el **Desarrollo Web**. 
+Mi formación técnica me permite entender la tecnología desde el hardware hasta el código.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologías
+- **Backend:** PHP (Laravel), Java
+- **Frontend:** React, HTML5, CSS3, Bootstrap
+- **Sistemas:** Configuración de Redes, Microinformática y Mantenimiento
+
+---
+
+### 🚀 Sobre mí
+- 💻 Enfocado en escribir código limpio y eficiente.
+- 🔧 Resolutivo gracias a mi experiencia en soporte técnico.
+- 📚 Aprendiendo continuamente nuevas tecnologías.
+
+---
+
+### 📫 Contacto
+[LinkedIn](TU_LINK_AQUI) | [Email](TU_EMAIL_AQUI)
