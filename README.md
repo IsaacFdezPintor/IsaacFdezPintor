@@ -29,19 +29,3 @@ Profesional con un perfil técnico híbrido. Mi trayectoria integra la **Microin
 * **Arquitectura Integral:** Comprensión profunda del despliegue de aplicaciones tanto a nivel de **software** como de **hardware y protocolos de red**.
 * **Desarrollo Ágil:** Implementación de soluciones robustas utilizando **Laravel** para el backend y **React** para interfaces dinámicas de alto rendimiento.
 * **Metodología Resolutiva:** Capacidad analítica avanzada para la **depuración de errores complejos** y optimización de recursos del sistema.
-
----
-
-### **Métricas de Actividad**
-Para que las estadísticas carguen correctamente, asegúrate de que tu repositorio es **Público**.
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=IsaacFdezPintor&show_icons=true&theme=corporate&hide_border=false&count_private=true" alt="Estadísticas de Isaac" height="170px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacFdezPintor&layout=compact&theme=corporate&hide_border=false" alt="Lenguajes principales" height="170px" />
-</p>
-
----
-
-### **Información de Contacto**
-* **LinkedIn:** [linkedin.com/in/TU_USUARIO](https://linkedin.com/in/TU_USUARIO)
-* **Correo Profesional:** [TU_CORREO@ejemplo.com]
